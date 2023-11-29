@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myprofileportofolio/static/css/main.db066086.css",
+    "main.js": "/myprofileportofolio/static/js/main.2442391c.js",
+    "static/js/787.97d1ff77.chunk.js": "/myprofileportofolio/static/js/787.97d1ff77.chunk.js",
+    "static/media/heroimage.png": "/myprofileportofolio/static/media/heroimage.3cf65ce50399b08261fd.png",
+    "static/media/coffe-1.JPG": "/myprofileportofolio/static/media/coffe-1.1e46c8787617ca61ac79.JPG",
+    "static/media/doi-1.JPG": "/myprofileportofolio/static/media/doi-1.cf27357a350cd3a0f05a.JPG",
+    "static/media/vueshop-1.JPG": "/myprofileportofolio/static/media/vueshop-1.ae368e0ceedb02055fba.JPG",
+    "static/media/technicalsupport.png": "/myprofileportofolio/static/media/technicalsupport.16cb798b7ba86fda85b9.png",
+    "static/media/softwaremaintaning.png": "/myprofileportofolio/static/media/softwaremaintaning.9a4f5111bf4b4ea019b5.png",
+    "static/media/linuxadministrator.png": "/myprofileportofolio/static/media/linuxadministrator.e7dfd5860a077b1a545e.png",
+    "static/media/react-js-icon.png": "/myprofileportofolio/static/media/react-js-icon.396536ced87da4ba25b4.png",
+    "index.html": "/myprofileportofolio/index.html",
+    "main.db066086.css.map": "/myprofileportofolio/static/css/main.db066086.css.map",
+    "main.2442391c.js.map": "/myprofileportofolio/static/js/main.2442391c.js.map",
+    "787.97d1ff77.chunk.js.map": "/myprofileportofolio/static/js/787.97d1ff77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db066086.css",
+    "static/js/main.2442391c.js"
+  ]
+}
