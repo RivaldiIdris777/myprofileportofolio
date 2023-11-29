@@ -5,6 +5,7 @@ import Home from "./component/Home";
 import Navbar from "./component/Navbar";
 import Portofolio from "./component/Portofolio";
 import SocialLink from "./component/SocialLink";
+import TechnicalSkill from "./component/TechnicalSkill";
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <About/>
       <Portofolio/>
       <Experience/>      
+      <TechnicalSkill/>
       <Contact/>
     </div>
   );
